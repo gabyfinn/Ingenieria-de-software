@@ -5,6 +5,8 @@
  */
 package holamundo;
 
+import jdk.javadoc.internal.doclets.formats.html.SourceToHTMLConverter;
+
 /**
  *
  * @author Gabyfinn
@@ -17,6 +19,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Leo se la comenta bien doblada");
+        System.out.println("Hola hermoso mundo cruel");
         //asdasdsasadasd
         System.out.println("No se pero al menos no juego lol");
     }
